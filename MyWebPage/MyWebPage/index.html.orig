@@ -1,0 +1,15 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>MyWebPage-testing Git</title>
+</head>
+    <body>
+        <h1>My Web Page - to test some Git commands</h1>
+<<<<<<< HEAD
+        <h2>Här testar jag Edit Collision-detta är ändrat av mig efter att min kollega pushat</h2>
+=======
+        <h2>Här testar jag Edit Collision-detta är återigen ändrat av min kollega</h2>
+>>>>>>> 6908fd7cfef293286b0eeec493d20fbab7ae6a10
+
+    </body>
+</html>
