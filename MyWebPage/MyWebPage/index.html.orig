@@ -4,12 +4,12 @@
     <title>MyWebPage-testing Git</title>
 </head>
     <body>
-        <h1>My Web Page - to test some Git commands</h1>
+        <h1>My Web Page - to test merge conflict</h1>
 <<<<<<< HEAD
-        <h2>Här testar jag Edit Collision-detta är ändrat av mig efter att min kollega pushat</h2>
+        <h2>Efter att kollega ändrat och pushat</h2>
 =======
-        <h2>Här testar jag Edit Collision-detta är återigen ändrat av min kollega</h2>
->>>>>>> 6908fd7cfef293286b0eeec493d20fbab7ae6a10
+        <h2>Kollega ändrat och pushat före mig</h2>
+>>>>>>> 4d34e5c9f005ae2b088739d0ae64a8f865d37836
 
     </body>
 </html>
