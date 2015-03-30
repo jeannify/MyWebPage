@@ -6,10 +6,10 @@
     <body>
         <h1>My Web Page - to test merge conflict</h1>
 <<<<<<< HEAD
-        <h2>Efter att kollega ändrat och pushat</h2>
+        <h2>Domherren är en fågel med svart näbb</h2>
 =======
-        <h2>Kollega ändrat och pushat före mig</h2>
->>>>>>> 4d34e5c9f005ae2b088739d0ae64a8f865d37836
+        <h2>Domherren är en fågel med rött bröst och rosa näbb</h2>
+>>>>>>> 3e8510b54f7950f638d248f306740d2abb121772
 
     </body>
 </html>
