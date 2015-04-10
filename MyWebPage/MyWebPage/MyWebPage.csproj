@@ -68,7 +68,8 @@
     <Content Include="About.html" />
     <Content Include="Contact.html" />
     <Content Include="index.html" />
-       <Content Include="info1.html" />
+    <Content Include="info1.html" />
+    <Content Include="info2.html" />
     <Content Include="information.html" />
     <Content Include="Web.config" />
   </ItemGroup>
